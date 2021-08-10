@@ -1,6 +1,6 @@
 // CONFIG DATA 
 const CONFIGDATA = {
-    titleHeader: 'Làm người yêu Chiến nhé Ngọc I Love You',
+    titleHeader: 'Làm người yêu Chiến nhé Ngọc I Love You babeee',
     descriptionHeader: 'Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^',
     buttonYes: 'Đồng Ý',
     buttonNo: 'Không! Còn lâu nhé.',
