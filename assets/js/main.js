@@ -1,11 +1,11 @@
 // CONFIG DATA 
 const CONFIGDATA = {
-    titleHeader: 'Làm người yêu tớ nhé I Love You',
+    titleHeader: 'Làm người yêu Chiến nhé Ngọc I Love You',
     descriptionHeader: 'Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^',
     buttonYes: 'Đồng Ý',
     buttonNo: 'Không! Còn lâu nhé.',
-    titleModar: 'Thanks hbn vì đồng ý',
-    descriptionModar: 'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là con đầu gấu :)) </br> "Thích cậu nhiều đến mấy, cậu đéo hiểu đâuuu. </br>  Fuck you bitch :)) "',
+    titleModar: 'Thanks Hoàng Bảo Ngọc vì đồng ý',
+    descriptionModar: 'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> Ai mà được là ny HBN thì sướng lắm :<.Đối với tớ, cậu mãi là con đầu gấu :)) </br> "Thích cậu nhiều đến mấy, cậu đéo hiểu đâuuu. </br>  Fuck you bitch :)) "',
 };
 
 
